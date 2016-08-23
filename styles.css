@@ -1,0 +1,37 @@
+body{
+	width: 12ps;
+
+}
+header{
+	height: 150px;
+}
+main{
+	background-color: green;
+	 float: left;
+  width: 600px;
+}
+aside{
+float: right;
+  width: 600px;
+  background-color: orange;
+}
+footer{
+
+}
+
+#social {
+  property: value;
+}
+.align-center {
+  text-align: center;
+}
+.highlight {
+  color: yellow;
+}
+.social{
+  background-color: teal;
+  position: absolute;
+  padding: 10px;
+  top: 10px;
+  left: 0;
+}
